@@ -1,0 +1,25 @@
+.mainDiv{
+    background-color:burlywood;
+    width: 400px;
+    margin: 0 auto;
+    border: 2px solid;
+    padding: 5px;
+}
+
+.heading{
+    color: black;
+    text-align: center;
+}
+
+.inp{
+    width: 235px;
+    height: 30px;
+    color: gray;
+    border: 0;
+    
+}
+.btn{
+    background-color: rgb(200, 151, 86);
+    height: 30px;
+    width: 80px;
+}
